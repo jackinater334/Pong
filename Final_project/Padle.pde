@@ -3,6 +3,7 @@ public class Padle{
   int y;
   int a;
   int d;
+  int e;
 String currentDirection;
   public Padle(){
  x=400;
